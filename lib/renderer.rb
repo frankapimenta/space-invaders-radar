@@ -1,5 +1,6 @@
-# The renderer takes a matrix, and renders it as ascii art
-# — the opposite of the Parser class.
+# The renderer takes a 2 dimensional array of boolean
+# values, and renders them as ascii art — the opposite of
+# the Parser class.
 
 class Renderer
   NEWLINE = "\n"
