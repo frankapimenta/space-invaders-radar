@@ -3,7 +3,7 @@
 This project is my response to a coding assignment.
 
 The challenge was to detect ASCII space invaders via an ASCII radar sample. The
-findings are output to an ASCII radar screen (see: ASSIGNMENT.md).
+findings are output to an ASCII radar screen (see: [ASSIGNMENT.md](ASSIGNMENT.md)).
 
 ## Environment
 
