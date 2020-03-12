@@ -1,5 +1,5 @@
-# Used to discover matrixs, given a radar sample matrix
-# and a screen matrix to output the results.
+# Used to discover matrixes within a radar sample matrix
+# and output the results to a supplied screen matrix.
 
 class Radar
   attr_reader :sample, :screen
